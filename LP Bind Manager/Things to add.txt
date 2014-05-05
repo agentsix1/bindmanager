@@ -1,0 +1,28 @@
+﻿when canceling out of input for binds does not cancel but continues creation
+
+Commands
+connect - requires input
+passsword - requires input
+
+non key binds
+
+finish CBS
+
+File Merge - the ability to merge 2 different files to 1
+ 
+Start all help/guide pages - html ? (prolly a good idea would look rather nice)
+
+custom commands - Last (Sorta implemented)
+settings
+	- Custom Cammnds ?
+	- Auto load files
+	- more ?
+
+custom command manager ?
+
+
+Keyboard layout showing what keys you have bound ! ? maybe
+
+Start on ASC and CAS - v2 possibly?
+
+Check For Updates - in ver 1 
